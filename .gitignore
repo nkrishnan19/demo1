@@ -12,6 +12,7 @@
 
 #ignore readme
 readme.txt
+README.md
 # Package Files #
 *.jar
 *.war
